@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "name": "test",
+            "text": "test",
+            "effect": "losehealth"
+        },
+        {
+            "id": 1,
+            "name": "test1",
+            "text": "test1",
+            "effect": "losehealth"
+        }
+    ]
+}
