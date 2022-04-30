@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Reflection;
 using UnityEngine;
 
 public class ItemList
@@ -111,12 +112,12 @@ public class Item
         if(targetDictionary.ContainsKey(target))
         {
             this.target = targetDictionary[target];
-            Logger.WriteToLog(string.Format("ItemList: Item: SetTarget(): SUCCESS: Set target to {0}.", this.target));
+            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Set target to {0}", this.target));
         }
         else
         {
             ArgumentNullException e = new ArgumentNullException("Invalid Effect");
-            Logger.WriteToLog(string.Format("ItemList: Item: SetTarget(): ERROR: {0}.", e));
+            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), e.ToString());
             throw e;
         }
     }

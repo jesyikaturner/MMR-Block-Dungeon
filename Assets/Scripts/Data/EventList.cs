@@ -1,4 +1,5 @@
 using System;
+using System.Reflection;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,6 +9,8 @@ public class EventList
     /*
      * EventList.cs
      * Stores a list of events which are created from EventDictionary.json.
+     * 
+     * This is used for the Dungeon Generation code.
      */
     private Dictionary<string, Event> _eventList;
 
@@ -20,22 +23,24 @@ public class EventList
         foreach (JSONEvent e in events.events)
         {
             _eventList.Add(e.name, new Event(e.id, e.name, e.text, e.effect));
-            Logger.WriteToLog(string.Format("EventList: EventList(): SUCCESS: Added new event: {0}.", _eventList[e.name].Print()));
+            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Added new event: {0}", _eventList[e.name].Print()));
         }
+
     }
 
     public Event GetEventByName(string name)
     {
         try
         {
-            Logger.WriteToLog(string.Format("EventList: GetEvent(): SUCCESS: Got {0} from the eventList dictionary.", name));
+            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from the eventList dictionary", name));
             return _eventList[name];
         }
-        catch(Exception)
+        catch (Exception)
         {
-            Logger.WriteToLog(string.Format("EventList: GetEvent(): Error: {0} doesn't exist.", name));
+            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} doesn't exist", name));
             return null;
         }
+
     }
 
     public Event GetEventById(int id)
@@ -82,7 +87,7 @@ public class Event
         Name = name;
         Text = text;
         SetEffect(effect);
-        Logger.WriteToLog(string.Format("EventList: Event: Event(): SUCCESS: Created event."));
+        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), "Created event");
     }
 
     public void SetEffect(string effect)
@@ -102,12 +107,12 @@ public class Event
         if (effectDictionary.ContainsKey(effect))
         {
             _effect = effectDictionary[effect];
-            Logger.WriteToLog(string.Format("EventList: Event: SetEffect(): SUCCESS: Set effect to {0}.", _effect));
+            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Set effect to {0}", _effect));
         }
         else
         {
             ArgumentNullException e = new ArgumentNullException("Invalid Effect");
-            Logger.WriteToLog(string.Format("EventList: Event: SetEffect(): ERROR: {0}.", e));
+            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), e.ToString());
             throw e;
         }
     }
