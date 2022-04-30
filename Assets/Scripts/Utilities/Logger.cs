@@ -16,7 +16,6 @@ public static class Logger
     {
         string methodName = string.Format("{0}:{1}", methodBase.DeclaringType.Name, methodBase.Name);
         string line = string.Format("{0} {1}: ERROR: {2}.", DateTime.Now, methodName, logString);
-        //Debug.LogError(line);
 
 #if UNITY_EDITOR
         FileHandler.WriteTextFile(FILENAME, line);
@@ -32,7 +31,6 @@ public static class Logger
     {
         string methodName = string.Format("{0}.{1}", methodBase.DeclaringType.Name, methodBase.Name);
         string line = string.Format("{0} {1}: SUCCESS: {2}.", DateTime.Now, methodName, logString);
-        //Debug.Log(line);
 
 #if UNITY_EDITOR
         FileHandler.WriteTextFile(FILENAME, line);
@@ -48,7 +46,6 @@ public static class Logger
     {
         string methodName = string.Format("{0}.{1}", methodBase.DeclaringType.Name, methodBase.Name);
         string line = string.Format("{0} {1}: INFO: {2}.", DateTime.Now, methodName, logString);
-        //Debug.Log(line);
 
 #if UNITY_EDITOR
         FileHandler.WriteTextFile(FILENAME, line);
@@ -64,7 +61,6 @@ public static class Logger
     {
         string methodName = string.Format("{0}.{1}", methodBase.DeclaringType.Name, methodBase.Name);
         string line = string.Format("{0} {1}: WARNING: {2}.", DateTime.Now, methodName, logString);
-        //Debug.LogWarning(line);
 
 #if UNITY_EDITOR
         FileHandler.WriteTextFile(FILENAME, line);
