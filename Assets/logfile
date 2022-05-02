@@ -909,3 +909,872 @@ Parameter name: key
 30/04/2022 10:52:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
 30/04/2022 10:52:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
 30/04/2022 10:52:08 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:45:46 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:45:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:45:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:45:46 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:45:46 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:45:46 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:45:46 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:45:46 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:45:46 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:45:46 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:45:46 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:45:46 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:45:46 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:45:46 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:45:46 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:45:46 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:47:54 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:47:54 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:47:54 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:47:54 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:47:54 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:47:54 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:47:54 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:47:54 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:47:54 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:47:54 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:47:54 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:47:54 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:47:54 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:47:54 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:47:54 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:47:54 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:48:08 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:48:08 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:48:08 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:48:08 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:48:09 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:48:09 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:48:09 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:48:09 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:48:09 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:48:09 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:48:09 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:48:09 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:48:09 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:48:09 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:48:09 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:48:09 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:51:17 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:51:17 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:51:17 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:51:17 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:51:18 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:51:18 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:51:18 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:51:18 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:51:18 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:51:18 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:19 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:19 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:53:19 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:19 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:53:19 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:53:19 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:53:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:53:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:53:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:34 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:34 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:34 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:34 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:35 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:35 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:53:35 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:53:35 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:53:35 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:53:35 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:53:35 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:35 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:35 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:53:35 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:53:35 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:53:35 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:53:35 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:53:35 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:54:05 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:54:05 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:54:05 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:54:05 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:54:05 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:54:05 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:54:05 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:54:05 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:54:05 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:54:05 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:54:05 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:55:00 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:55:00 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:55:00 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:55:00 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:55:00 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:55:00 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:55:00 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:55:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:55:00 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:55:00 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:55:00 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:55:00 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:06 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:06 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:06 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:57:06 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:07 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:07 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:07 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:07 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:57:07 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:07 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:07 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:57:07 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:07 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:07 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:07 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:57:07 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:57:07 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:57:07 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:57:07 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:57:07 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:57:07 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:57:07 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:57:07 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:57:07 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:57:07 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:57:07 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:57:07 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:58:38 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:58:38 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:58:38 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:58:38 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:58:38 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:58:38 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:58:38 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:58:38 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:58:38 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:58:38 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:58:38 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+2/05/2022 6:59:56 PM Event..ctor: SUCCESS: Created event.
+2/05/2022 6:59:56 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+2/05/2022 6:59:56 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+2/05/2022 6:59:56 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+2/05/2022 6:59:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:59:56 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:59:56 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:59:56 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:59:56 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:59:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:56 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:59:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:59:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:56 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:59:56 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:59:56 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+2/05/2022 6:59:56 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:59:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:59:57 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:59:57 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+2/05/2022 6:59:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+2/05/2022 6:59:57 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.

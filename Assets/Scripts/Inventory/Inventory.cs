@@ -12,30 +12,7 @@ public class Inventory
         items = new List<InventoryItem>();
     }
 
-    #region Add Items
-    /// <summary>
-    /// 
-    /// </summary>
-    /// <param name="item">Item to be added to the Inventory.</param>
-    public bool AddItem(Item item)
-    {
-        if (GetItemById(item.id) != null)
-        {
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), "Item already exists");
-            return false;
-        }
-
-        items.Add(new InventoryItem(item, 0));
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("{0} added to inventory", item.name));
-        return true;
-    }
-
-    /// <summary>
-    /// 
-    /// </summary>
-    /// <param name="item">Item reference for the amount to be added to. If the item doesn't exist then adds the item to the inventory.</param>
-    /// <param name="quantity">Quantity to be added to the item in the inventory.</param>
-    public void AddQuantity(Item item, int quantity)
+    public void AddQuantity(Item item, int quantity = 1)
     {
         if(GetItemById(item.id) == null)
         {
@@ -49,7 +26,6 @@ public class Inventory
 
         Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("{0}x {1} added to inventory", quantity, item.name));
     }
-    #endregion
 
     #region Get Items
     /// <summary>

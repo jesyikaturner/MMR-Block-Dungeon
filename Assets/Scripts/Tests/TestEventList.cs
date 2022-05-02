@@ -21,7 +21,7 @@ public class TestEventList
     //}
 
     [SetUp]
-    public void TestItemListPass()
+    public void TestItemListSetup()
     {
         //if(CheckForSkipSetup())
         //    return;
