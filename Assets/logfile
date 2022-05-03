@@ -1778,3 +1778,1055 @@ Parameter name: key
 2/05/2022 6:59:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
 2/05/2022 6:59:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
 2/05/2022 6:59:57 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:12:55 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:12:55 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:12:55 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:12:55 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:55 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:12:55 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+3/05/2022 7:12:55 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:55 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:55 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:55 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:56 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:56 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:56 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:12:56 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:12:56 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:12:56 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:12:56 PM Inventory.RemoveItemById: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:13:28 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:28 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:28 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:13:28 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:28 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:28 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:13:28 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:28 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:28 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:28 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:13:28 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:28 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:28 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:13:29 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:13:29 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:13:29 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:13:29 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:13:29 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+3/05/2022 7:13:29 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory:RemoveItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:13:29 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:13:29 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:13:29 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:13:29 PM Inventory.RemoveItemById: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:14:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:56 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:56 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:14:56 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:14:57 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:14:57 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:14:57 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:14:57 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:14:57 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+3/05/2022 7:14:57 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory:RemoveItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory.RemoveItemById: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory:RemoveItemByName: ERROR: fake test item not found.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:14:57 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:14:57 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:14:57 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:14:57 PM Inventory.RemoveItemByName: SUCCESS: Removed test item.
+3/05/2022 7:22:58 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:58 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:58 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:22:58 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:58 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:58 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:22:58 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:58 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:58 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:58 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:22:58 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:58 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:58 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:22:58 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:58 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:58 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:58 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:22:58 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:58 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:58 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:59 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:59 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:59 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:59 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:59 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:59 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:59 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:59 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:59 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:59 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:59 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:59 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:22:59 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:22:59 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:22:59 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:22:59 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:22:59 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+3/05/2022 7:22:59 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory:RemoveItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory.RemoveItemById: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory:RemoveItemByName: ERROR: fake test item not found.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory.RemoveItemByName: SUCCESS: Removed test item.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory.RemoveQuantity: WARNING: Quantity is greater than Item Id: 0's current quantity.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:22:59 PM Inventory:RemoveQuantity: ERROR: Item Id: 4 not found.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:22:59 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:22:59 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:22:59 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:00 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:00 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:00 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:00 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:00 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:00 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:00 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:00 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:00 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:00 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:00 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:00 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:00 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:00 PM Inventory.RemoveQuantity: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:23:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:46 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:23:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:46 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:23:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:46 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:23:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:46 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:46 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:23:46 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:46 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:46 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:46 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:47 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:47 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:23:47 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:23:47 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:23:47 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:23:47 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:23:47 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+3/05/2022 7:23:47 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory:RemoveItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory.RemoveItemById: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory:RemoveItemByName: ERROR: fake test item not found.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory.RemoveItemByName: SUCCESS: Removed test item.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory.RemoveQuantity: WARNING: Quantity is greater than Item Id: 0's current quantity.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:47 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:47 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:47 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:47 PM Inventory:RemoveQuantity: ERROR: Item Id: 4 not found.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:48 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:48 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:48 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:48 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:48 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:48 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:48 PM Inventory.RemoveQuantity: SUCCESS: Removed 1x Item Id: 1.
+3/05/2022 7:23:48 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:23:48 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:23:48 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:23:48 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:23:48 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:23:48 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:23:48 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:23:48 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:23:48 PM Inventory.RemoveQuantity: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:35:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:19 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:35:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:19 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:35:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:19 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:19 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:35:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:19 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:19 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:35:19 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:19 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:20 PM EventList.GetEventByName: SUCCESS: Got test1 from the eventList dictionary.
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:20 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 0, Name: test, Text: test, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to LOSEHEALTH.
+3/05/2022 7:35:20 PM Event..ctor: SUCCESS: Created event.
+3/05/2022 7:35:20 PM EventList..ctor: SUCCESS: Added new event: ID: 1, Name: test1, Text: test1, Effect: LOSEHEALTH..
+3/05/2022 7:35:20 PM EventList.GetEventByName: SUCCESS: Got test from the eventList dictionary.
+3/05/2022 7:35:20 PM Event.SetEffect: SUCCESS: Set effect to GAINITEM.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:35:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test normal item added to inventory.
+3/05/2022 7:35:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 3 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x ultra special awesome card added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory:GetItemByName: ERROR: Item Name: fake test item not found.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory.GetItemByName: SUCCESS: Got test item from inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory:RemoveItemById: ERROR: Item Id: 4 not found.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory.RemoveItemById: SUCCESS: Removed Item Id: 0.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory:RemoveItemByName: ERROR: fake test item not found.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:20 PM Inventory.RemoveItemByName: SUCCESS: Removed test item.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:20 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:20 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:20 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:21 PM Inventory.RemoveQuantity: WARNING: Quantity is greater than Item Id: 0's current quantity.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:21 PM Inventory:RemoveQuantity: ERROR: Item Id: 4 not found.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:21 PM Inventory.RemoveQuantity: SUCCESS: Removed 1x Item Id: 1.
+3/05/2022 7:35:21 PM Inventory.GetItemById: SUCCESS: Got test normal item from inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to NONE.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 0 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 3x test normal item added to inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ONE.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 1 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test special item added to inventory.
+3/05/2022 7:35:21 PM Item.SetTarget: SUCCESS: Set target to ALL.
+3/05/2022 7:35:21 PM Inventory:GetItemById: ERROR: Item Id: 2 not found.
+3/05/2022 7:35:21 PM Inventory.AddQuantity: SUCCESS: 1x test item added to inventory.
+3/05/2022 7:35:21 PM Inventory.RemoveQuantity: SUCCESS: Removed Item Id: 0.

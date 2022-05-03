@@ -129,7 +129,7 @@ public class Inventory
     /// <param name="id">The id of the item to have the quantity removed from.</param>
     /// <param name="quantity">The amount of items to be removed.</param>
     /// <returns>Returns whether or not an item was able to be removed.</returns>
-    public bool RemoveQuantity(int id, int quantity)
+    public bool RemoveQuantity(int id, int quantity = 1)
     {
         InventoryItem itemToRemove = null;
         foreach (InventoryItem invItem in items)
