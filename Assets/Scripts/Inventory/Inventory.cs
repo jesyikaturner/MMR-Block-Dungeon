@@ -12,6 +12,11 @@ public class Inventory
         items = new List<InventoryItem>();
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="item">The item to be added.</param>
+    /// <param name="quantity">[Optional] Quantity of the item to be added. Default is 1.</param>
     public void AddQuantity(Item item, int quantity = 1)
     {
         if(GetItemById(item.id) == null)
@@ -32,7 +37,7 @@ public class Inventory
     /// Get item from list by it's ID.
     /// </summary>
     /// <param name="id">The id of the item looked for.</param>
-    /// <returns></returns>
+    /// <returns>The item found with a typeof(InventoryItem).</returns>
     public InventoryItem GetItemById(int id)
     {
         foreach(InventoryItem invItem in items)
@@ -52,7 +57,7 @@ public class Inventory
     /// Get item from list by its name. Name must match exactly, otherwise will return null.
     /// </summary>
     /// <param name="name">The name of the item looked for.</param>
-    /// <returns></returns>
+    /// <returns>The item found with a typeof(InventoryItem).</returns>
     public InventoryItem GetItemByName(string name)
     {
         foreach (InventoryItem invItem in items)
@@ -74,7 +79,7 @@ public class Inventory
     /// 
     /// </summary>
     /// <param name="id">The id of the item to be removed.</param>
-    /// <returns>Returns whether or not an item was able to be removed</returns>
+    /// <returns>Whether or not an item was able to be removed</returns>
     public bool RemoveItemById(int id)
     {
         InventoryItem itemToRemove = null;
@@ -101,7 +106,7 @@ public class Inventory
     /// 
     /// </summary>
     /// <param name="name">The name of the item to be removed.</param>
-    /// <returns>Returns whether or not an item was able to be removed</returns>
+    /// <returns>Whether or not an item was able to be removed</returns>
     public bool RemoveItemByName(string name)
     {
         InventoryItem itemToRemove = null;
@@ -128,7 +133,7 @@ public class Inventory
     /// </summary>
     /// <param name="id">The id of the item to have the quantity removed from.</param>
     /// <param name="quantity">The amount of items to be removed.</param>
-    /// <returns>Returns whether or not an item was able to be removed.</returns>
+    /// <returns>Whether or not an item was able to be removed.</returns>
     public bool RemoveQuantity(int id, int quantity = 1)
     {
         InventoryItem itemToRemove = null;
@@ -179,7 +184,7 @@ public class Inventory
     /// <summary>
     /// 
     /// </summary>
-    /// <returns></returns>
+    /// <returns>A string list of what's currently in the inventory list.</returns>
     public List<string> Print()
     {
         List<string> InventoryItemList = new List<string>();

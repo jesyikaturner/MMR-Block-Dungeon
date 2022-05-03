@@ -5,10 +5,10 @@ using UnityEngine;
 
 public class ShopManager : MonoBehaviour
 {
-    private Inventory shopInventory;
+    private Inventory _shopInventory;
     public ShopManager()
     {
-        shopInventory = new Inventory();
+        _shopInventory = new Inventory();
     }
 
     /// <summary>
@@ -38,6 +38,7 @@ public class ShopManager : MonoBehaviour
 
         if(playerItem.item.price == 0)
         {
+            // display error to user - unable to sell item. item cannot be sold.
             Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} cannot be sold", playerItem.item.name));
             return false;
         }
@@ -45,11 +46,12 @@ public class ShopManager : MonoBehaviour
         if (playerInventory.RemoveQuantity(playerItem.item.id, quantity))
         {
             playerInventory.TotalMoney += (playerItem.item.price / 2) * quantity;
-            shopInventory.AddQuantity(playerItem.item, quantity);
+            _shopInventory.AddQuantity(playerItem.item, quantity);
+            // display success to user - item sold.
             // TODO: Logger here.
             return true;
         }
-
+        // display error to user - unable to sell item. selected quantity is greater then available amount.
         // TODO: Logger here.
         return false;
     }
@@ -63,6 +65,15 @@ public class ShopManager : MonoBehaviour
     /// <returns>Whether or not the item was sucessfully bought.</returns>
     public bool BuyItem(PlayerInventory playerInventory, int id, int quantity)
     {
+        Inventory.InventoryItem shopItem = _shopInventory.GetItemById(id);
+
+        if (shopItem == null)
+        {
+            // TODO: Logger error here.
+            return false;
+        }
+
+
 
         return false;
     }

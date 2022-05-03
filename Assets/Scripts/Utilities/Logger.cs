@@ -8,9 +8,9 @@ public static class Logger
     public static List<string> log = new();
 
     /// <summary>
-    /// 
+    /// Writes an error to the logfile. Make sure to add 'using System.Reflection;' to the file calling this.
     /// </summary>
-    /// <param name="methodBase"></param>
+    /// <param name="methodBase">MethodBase.GetCurrentMethod() :: Pass the calling method class and name to display in the log.</param>
     /// <param name="logString">The string to be written to the logs.</param>
     public static void WriteErrorToLog(MethodBase methodBase, string logString)
     {
@@ -23,9 +23,9 @@ public static class Logger
     }
 
     /// <summary>
-    /// 
+    /// Writes a success to the logfile. Make sure to add 'using System.Reflection;' to the file calling this.
     /// </summary>
-    /// <param name="methodBase"></param>
+    /// <param name="methodBase">MethodBase.GetCurrentMethod() :: Pass the calling method class and name to display in the log.</param>
     /// <param name="logString">The string to be written to the logs.</param>
     public static void WriteSuccessToLog(MethodBase methodBase, string logString)
     {
@@ -38,9 +38,9 @@ public static class Logger
     }
 
     /// <summary>
-    /// 
+    /// Writes to the logfile. Make sure to add 'using System.Reflection;' to the file calling this.
     /// </summary>
-    /// <param name="methodBase"></param>
+    /// <param name="methodBase">MethodBase.GetCurrentMethod() :: Pass the calling method class and name to display in the log.</param>
     /// <param name="logString">The string to be written to the logs.</param>
     public static void WriteInfoToLog(MethodBase methodBase, string logString)
     {
@@ -53,9 +53,9 @@ public static class Logger
     }
 
     /// <summary>
-    /// 
+    /// Writes a warning to the logfile. Make sure to add 'using System.Reflection;' to the file calling this.
     /// </summary>
-    /// <param name="methodBase"></param>
+    /// <param name="methodBase">MethodBase.GetCurrentMethod() :: Pass the calling method class and name to display in the log.</param>
     /// <param name="logString">The string to be written to the logs.</param>
     public static void WriteWarningToLog(MethodBase methodBase, string logString)
     {
