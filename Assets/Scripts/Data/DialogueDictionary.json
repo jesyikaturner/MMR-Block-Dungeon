@@ -1,0 +1,131 @@
+{
+    "conversations": [
+        {
+            "key": "shop_welcome",
+            "name": "merchant",
+            "paragraphs": [
+                {
+                    "id": 0,
+                    "text": "hello world",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "continue...",
+                            "nextKey": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "text": "welcome to my shop",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "continue...",
+                            "nextKey": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "maybe this works?",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "see whats in stock",
+                            "nextKey": ""
+                        },
+                        {
+                            "id": 1,
+                            "text": "chat to merchant",
+                            "nextKey": "shop_chat"
+                        },
+                        {
+                            "id": 2,
+                            "text": "exit",
+                            "nextKey": "shop_close"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "shop_chat",
+            "name": "merchant",
+            "paragraphs": [
+                {
+                    "id": 0,
+                    "text": "i am merchant",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "continue...",
+                            "nextKey": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "text": "and this is my chesty",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "continue...",
+                            "nextKey": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "welcome to my shop",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "end...",
+                            "nextKey": "shop_welcome"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "shop_close",
+            "name": "merchant",
+            "paragraphs": [
+                {
+                    "id": 0,
+                    "text": "goodbye world",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "continue...",
+                            "nextKey": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "text": "come again",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "continue...",
+                            "nextKey": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "please work",
+                    "choices": [
+                        {
+                            "id": 0,
+                            "text": "end...",
+                            "nextKey": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
