@@ -12,8 +12,8 @@ public class DialogueList
         _dialogueList = new Dictionary<string, Dialogue>();
         JSONConversations conversations = JsonUtility.FromJson<JSONConversations>(json.text);
 
-        List<Dialogue.Choice> choiceList = new List<Dialogue.Choice>();
-        List<Dialogue.Paragraph> paragraphList = new List<Dialogue.Paragraph>();
+        List<Dialogue.Choice> choiceList = new();
+        List<Dialogue.Paragraph> paragraphList = new();
 
         foreach(JSONDialogue dialogue in conversations.conversations)
         {

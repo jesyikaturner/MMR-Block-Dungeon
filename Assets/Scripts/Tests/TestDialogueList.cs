@@ -11,6 +11,7 @@ public class TestDialogueList
     [SetUp]
     public void TestDialogueListSetup()
     {
+        // TODO: Create a test dialogue dictionary
         string dialoguePath = File.ReadAllText(Application.dataPath + "/Scripts/Data/DialogueDictionary.json");
         TextAsset dialogueJSON = new TextAsset(dialoguePath);
         _list = new DialogueList(dialogueJSON);
