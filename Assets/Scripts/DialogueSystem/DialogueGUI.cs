@@ -19,7 +19,7 @@ public class DialogueGUI : MonoBehaviour
             _displayedImage.gameObject.SetActive(false);
     }
 
-    public void StartDialogue()
+    public void StartDialogue(string key)
     {
 
     }
