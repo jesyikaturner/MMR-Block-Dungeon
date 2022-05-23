@@ -3,14 +3,26 @@ using System.IO;
 using System.Reflection;
 using UnityEngine;
 
-public static class FileHandler
+public sealed class FileHandler
 {
+    // Making this a singleton
+    private static readonly FileHandler instance = new();
+    private FileHandler() { }
+    public static FileHandler Instance
+    {
+        get
+        {
+            return instance;
+        }
+    }
+
+    private readonly Logger _logger = Logger.Instance;
     /// <summary>
     /// 
     /// </summary>
     /// <param name="filename">The filename of the text file to be written to.</param>
     /// <param name="line">The line to be written to the text file.</param>
-    public static void WriteTextFile(string filename, string line)
+    public void WriteTextFile(string filename, string line)
     {
         StreamWriter writer = new StreamWriter(Application.dataPath + "/" + filename, true);
         writer.WriteLine(line);
@@ -22,7 +34,7 @@ public static class FileHandler
     /// </summary>
     /// <param name="filename">The filename of the text file to be read.</param>
     /// <returns>Returns a list of all the previously entered logs from the read text file.</returns>
-    public static List<string> ReadTextFile(string filename)
+    public List<string> ReadTextFile(string filename)
     {
         List<string> output = new List<string>();
         StreamReader reader = new StreamReader(Application.dataPath + "/" + filename);
@@ -32,7 +44,7 @@ public static class FileHandler
             output.Add(inputLine);
         }
         reader.Close();
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), "file read, returning output list");
+        _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), "file read, returning output list");
         return output;
     }
 }

@@ -7,6 +7,8 @@ public class Inventory
     public const int MAXQUANTITY = 10;
     public List<InventoryItem> items;
 
+    private readonly Logger _logger = Logger.Instance;
+
     public Inventory()
     {
         items = new List<InventoryItem>();
@@ -29,7 +31,7 @@ public class Inventory
             existingItem.quantity += quantity;
         }
 
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("{0}x {1} added to inventory", quantity, item.name));
+        _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("{0}x {1} added to inventory", quantity, item.name));
     }
 
     #region Get Items
@@ -44,12 +46,12 @@ public class Inventory
         {
             if (invItem.item.id == id)
             {
-                Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from inventory", invItem.item.name));
+                _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from inventory", invItem.item.name));
                 return invItem;
             }
 
         }
-        Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Id: {0} not found", id));
+        _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Id: {0} not found", id));
         return null;
     }
 
@@ -64,12 +66,12 @@ public class Inventory
         {
             if (invItem.item.name == name)
             {
-                Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from inventory", invItem.item.name));
+                _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from inventory", invItem.item.name));
                 return invItem;
             }
 
         }
-        Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Name: {0} not found", name));
+        _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Name: {0} not found", name));
         return null;
     }
     #endregion
@@ -93,12 +95,12 @@ public class Inventory
         }
         if (itemToRemove == null)
         {
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Id: {0} not found", id));
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Id: {0} not found", id));
             return false;
         }
 
         items.Remove(itemToRemove);
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed Item Id: {0}", id));
+        _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed Item Id: {0}", id));
         return true;
     }
 
@@ -118,12 +120,12 @@ public class Inventory
         }
         if (itemToRemove == null)
         {
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} not found", name));
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} not found", name));
             return false;
         }
 
         items.Remove(itemToRemove);
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed {0}", name));
+        _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed {0}", name));
         return true;
     }
 
@@ -144,25 +146,25 @@ public class Inventory
         }
         if (itemToRemove == null)
         {
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Id: {0} not found", id));
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("Item Id: {0} not found", id));
             return false;
         }
 
         if(quantity > itemToRemove.quantity)
         {
-            Logger.WriteWarningToLog(MethodBase.GetCurrentMethod(), string.Format("Quantity is greater than Item Id: {0}'s current quantity", id));
+            _logger.WriteWarningToLog(MethodBase.GetCurrentMethod(), string.Format("Quantity is greater than Item Id: {0}'s current quantity", id));
             return false;
         }
 
         if(itemToRemove.quantity == quantity)
         {
             items.Remove(itemToRemove);
-            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed Item Id: {0}", id));
+            _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed Item Id: {0}", id));
             return true;
         }
 
         itemToRemove.quantity -= quantity;
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed {0}x Item Id: {0}", quantity, id));
+        _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Removed {0}x Item Id: {0}", quantity, id));
         return true;
     }
 

@@ -6,6 +6,7 @@ public class DialogueList
 {
 
     private Dictionary<string, Dialogue> _dialogueList;
+    private readonly Logger _logger = Logger.Instance;
 
     public DialogueList(TextAsset json)
     {

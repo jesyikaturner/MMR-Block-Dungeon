@@ -13,6 +13,7 @@ public class EventList
      * This is used for the Dungeon Generation code.
      */
     private Dictionary<string, Event> _eventList;
+    private readonly Logger _logger = Logger.Instance;
 
 
     public EventList(TextAsset json)
@@ -23,7 +24,7 @@ public class EventList
         foreach (JSONEvent e in events.events)
         {
             _eventList.Add(e.name, new Event(e.id, e.name, e.text, e.effect));
-            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Added new event: {0}", _eventList[e.name].Print()));
+            _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Added new event: {0}", _eventList[e.name].Print()));
         }
 
     }
@@ -32,12 +33,12 @@ public class EventList
     {
         try
         {
-            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from the eventList dictionary", name));
+            _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Got {0} from the eventList dictionary", name));
             return _eventList[name];
         }
         catch (Exception)
         {
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} doesn't exist", name));
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} doesn't exist", name));
             return null;
         }
 
@@ -81,13 +82,15 @@ public class Event
     public string Text { get; private set; }
     private EFFECT _effect;
 
+    private readonly Logger logger = Logger.Instance;
+
     public Event(int id, string name, string text, string effect)
     {
         ID = id;
         Name = name;
         Text = text;
         SetEffect(effect);
-        Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), "Created event");
+        logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), "Created event");
     }
 
     public void SetEffect(string effect)
@@ -107,12 +110,12 @@ public class Event
         if (effectDictionary.ContainsKey(effect))
         {
             _effect = effectDictionary[effect];
-            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Set effect to {0}", _effect));
+            logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Set effect to {0}", _effect));
         }
         else
         {
             ArgumentNullException e = new ArgumentNullException("Invalid Effect");
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), e.ToString());
+            logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), e.ToString());
             throw e;
         }
     }

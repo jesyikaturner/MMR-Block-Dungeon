@@ -87,6 +87,8 @@ public class Item
     public TARGET target;
     public int price;
 
+    private readonly Logger _logger = Logger.Instance;
+
     public Item(int id, string name, string description, string target, int price)
     {
         this.id = id;
@@ -112,12 +114,12 @@ public class Item
         if(targetDictionary.ContainsKey(target))
         {
             this.target = targetDictionary[target];
-            Logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Set target to {0}", this.target));
+            _logger.WriteSuccessToLog(MethodBase.GetCurrentMethod(), string.Format("Set target to {0}", this.target));
         }
         else
         {
             ArgumentNullException e = new ArgumentNullException("Invalid Effect");
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), e.ToString());
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), e.ToString());
             throw e;
         }
     }

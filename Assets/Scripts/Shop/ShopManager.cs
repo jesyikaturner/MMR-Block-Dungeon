@@ -6,6 +6,8 @@ using UnityEngine;
 public class ShopManager : MonoBehaviour
 {
     private Inventory _shopInventory;
+    private readonly Logger _logger = Logger.Instance;
+
     public ShopManager()
     {
         _shopInventory = new Inventory();
@@ -32,14 +34,14 @@ public class ShopManager : MonoBehaviour
 
         if(playerItem == null)
         {
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), "Item doesn't exist in player inventory");
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), "Item doesn't exist in player inventory");
             return false;
         }
 
         if(playerItem.item.price == 0)
         {
             // display error to user - unable to sell item. item cannot be sold.
-            Logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} cannot be sold", playerItem.item.name));
+            _logger.WriteErrorToLog(MethodBase.GetCurrentMethod(), string.Format("{0} cannot be sold", playerItem.item.name));
             return false;
         }
 
